@@ -1,6 +1,4 @@
-# Warmup 1 - Week 2
-# Student: Nazerke Mukhamediyeva
+# Command: python3 warmup1.py
+# Output: Python is working!
 
-print("Hello, World!")
-print("My name is Nazerke.")
-print("I am learning Python and Git.")
+print("Python is working!")
