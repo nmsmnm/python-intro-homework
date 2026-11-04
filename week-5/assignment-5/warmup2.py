@@ -1,0 +1,9 @@
+while True:
+    user_input = input("Enter a positive integer: ")
+
+    if user_input.isdigit() and int(user_input) > 0:
+        number = int(user_input)
+        print("Got it:", number)
+        break
+    else:
+        print("That's not a positive integer. Try again.")
